@@ -21,5 +21,6 @@
   "workbench.colorTheme": "Visual Studio Dark",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true,
-  "java.server.launchMode": "Standard"
+  "java.server.launchMode": "Standard",
+  "java.configuration.updateBuildConfiguration": "disabled"
 }
